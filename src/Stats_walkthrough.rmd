@@ -1,0 +1,6 @@
+# Beginnings
+
+```{r}
+ c <- rnorm(1,1)
+
+```
